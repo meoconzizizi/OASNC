@@ -19,6 +19,7 @@ call :ADD_HOST 10.255.5.50 erp.snc-lighting.com
 call :ADD_HOST 10.255.5.58 oa.snc-lighting.com
 call :ADD_HOST 10.255.5.13 label.snc-lighting.com
 call :ADD_HOST 10.255.5.6  logis.snc-lighting.com
+call :ADD_HOST 10.255.5.105  service.snc-lighting.com
 
 ipconfig /flushdns >nul
 
