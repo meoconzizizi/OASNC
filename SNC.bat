@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-title Add Tung Nguyen SNC Lighting Hosts
+title Add Tung Nguyen SNC Lighting
 
 :: ===== Check Admin =====
 net session >nul 2>&1
